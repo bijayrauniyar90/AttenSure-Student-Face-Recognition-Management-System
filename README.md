@@ -23,13 +23,16 @@ This project is a **Student Attendance Management System** developed using **Pyt
 ---
 For Demo checkout following link👇:  
 <a href="https://bijayrauniyar-hello-doc.vercel.app/" target="_blank">AttenSure</a> </br>
-### Images of HelloDoc ChatBot:
-![GUI](Demo Images/img1.jpg)
-![Doctor Listing](Demo Images/img2.jpg)
-![Appointment Booking](Demo images/img3.jpg)
-![AI Response](Demo Images/img4.jpg)
-![Chatbot in Action](Demo Images/img5.jpg)
----
+### Images of Attensure: Student Attendance Management System:
+![GUI](demo/img1.jpg)
+![Doctor Listing](demo/img2.jpg)
+![Appointment Booking](demo/img3.jpg)
+![AI Response](demo/img4.jpg)
+![Chatbot in Action](demo/img5.jpg)
+![Appointment Booking](demo/img6.jpg)
+![AI Response](demo/img7.jpg)
+![Chatbot in Action](demo/img8.jpg)
+![Chatbot in Action](demo/img9.jpg)
 
 ## Step-by-Step Development Process
 
